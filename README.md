@@ -103,14 +103,13 @@ Logistic Regression is a supervised classification algorithm used here to predic
 
 ## Project Structure
 
-
-
+customer-churn-logistic-regression/
+│
 ├── Bank_Customer_Churn.csv
 ├── customer_churn_logistic_regression.ipynb
 ├── churn_model.joblib
 ├── predict.py
 └── README.md
-
 
 ## Key Learning Outcomes
 
@@ -125,3 +124,4 @@ Through this project, I worked with:
 * Feature importance using model coefficients
 * Model serialization using Joblib
 * Making predictions using a saved machine learning model
+
